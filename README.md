@@ -158,19 +158,19 @@ Recommendations
 
 ### Zomato Analytics
 
-![Zomato Dashboard](Eternal_Business_Analytics_Dashboard/Screenshots/Zomato-View.png)
+![Zomato Dashboard](Eternal-Business-Analytics-Dashboard/Screenshots/Zomato-View.png)
 
 ---
 
 ### Blinkit Analytics
 
-![Blinkit Dashboard](Eternal_Business_Analytics_Dashboard/Screenshots/Blinkit-View.png)
+![Blinkit Dashboard](Eternal-Business-Analytics-Dashboard/Screenshots/Blinkit-View.png)
 
 ---
 
 ### District Analytics
 
-![District Dashboard](Eternal_Business_Analytics_Dashboard/Screenshots/District-View.png)
+![District Dashboard](Eternal-Business-Analytics-Dashboard/Screenshots/District-View.png)
 
 ---
 
