@@ -152,25 +152,25 @@ Recommendations
 
 ### Eternal Overview
 
-![Eternal Overview](Screenshots/Eternal-View.png)
+![Eternal Overview](Eternal_Business_Analytics_Dashboard/Screenshots/Eternal-View.png)
 
 ---
 
 ### Zomato Analytics
 
-![Zomato Dashboard](Screenshots/Zomato-View.png)
+![Zomato Dashboard](Eternal_Business_Analytics_Dashboard/Screenshots/Zomato-View.png)
 
 ---
 
 ### Blinkit Analytics
 
-![Blinkit Dashboard](Screenshots/Blinkit-View.png)
+![Blinkit Dashboard](Eternal_Business_Analytics_Dashboard/Screenshots/Blinkit-View.png)
 
 ---
 
 ### District Analytics
 
-![District Dashboard](Screenshots/District-View.png)
+![District Dashboard](Eternal_Business_Analytics_Dashboard/Screenshots/District-View.png)
 
 ---
 
