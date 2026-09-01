@@ -1,6 +1,6 @@
-Absolutely. Here is the **complete `README.md` in one Markdown code block**, with your name included. You can copy everything inside the block directly into GitHub.
 
-````markdown
+
+
 # Eternal Business Analytics Dashboard
 
 An interactive **Power BI analytics dashboard** designed to analyze business performance across Eternal's key consumer-facing verticals — **Zomato, Blinkit, and District**.
