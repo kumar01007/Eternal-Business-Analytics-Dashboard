@@ -152,7 +152,7 @@ Recommendations
 
 ### Eternal Overview
 
-![Eternal Overview](Eternal_Business_Analytics_Dashboard/Screenshots/Eternal-View.png)
+![Eternal Overview](Eternal-Business-Analytics-Dashboard/Screenshots/Eternal-View.png)
 
 ---
 
